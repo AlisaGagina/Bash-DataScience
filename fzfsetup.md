@@ -6,6 +6,5 @@ then
 
 into it, put
 
-`alias vzf='vim  $(fzf)'
-
- alias czf='cd $(dirname $(fzf))'`
+`alias vzf='vim  $(fzf)'`
+`alias czf='cd $(dirname $(fzf))'`
